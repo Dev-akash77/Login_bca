@@ -115,6 +115,7 @@ select{
   background:#279EFF;
   font-size: 4rem;
   color: white;
+  border-radius:1rem;
   border: none;
 }
 .last{
